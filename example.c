@@ -6,5 +6,5 @@ main()
 	a = 5;
 	b = 9+a;
 	printf("El resultado de mierda es: %d\n",b);
-	exit();
+	return 0;
 }
